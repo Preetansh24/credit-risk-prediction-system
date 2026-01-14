@@ -419,14 +419,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Having issues or questions?
 
-- 📧 Email: support@creditguard-ai.com
+
 - 🐛 Issues: GitHub Issues
 - 💬 Discussions: GitHub Discussions
 - 📚 Documentation: Full Documentation
 
-## 🌟 Star History
 
-![Star History](https://api.star-history.com/svg?repos=yourusername/CreditGuard-AI&type=Date)
 
 <div align="center">
 Built with ❤️ for the financial technology community
