@@ -16,7 +16,7 @@ CreditGuard AI is an intelligent, production-ready machine learning system that 
 ## 🎯 Live Demo
 
 🚀 Click here to access the live application  
-(Replace with your actual deployment URL)
+https://credit-risk-prediction-system-toydaagjvwnfzrubqcppje.streamlit.app/
 
 <p align="center"> <img src="https://img.shields.io/badge/Accuracy-85%2B%25-brightgreen" alt="Accuracy"/> <img src="https://img.shields.io/badge/Prediction_Time-<100ms-blue" alt="Speed"/> <img src="https://img.shields.io/badge/Models_Tested-5-yellow" alt="Models"/> <img src="https://img.shields.io/badge/ROC--AUC-0.92-success" alt="ROC-AUC"/> </p>
 
@@ -66,47 +66,13 @@ CreditGuard AI is an intelligent, production-ready machine learning system that 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
 | Frontend | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | Interactive Web Interface |
-| Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) | REST API Endpoints |
 | ML Framework | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Machine Learning Models |
 | Data Processing | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Data Manipulation |
 | Visualization | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | Interactive Charts |
-| Deployment | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Containerization |
 
 </div>
 
-## 📁 Project Structure
 
-```
-CreditGuard-AI/
-├── 📂 app/                          # Streamlit Application
-│   ├── 📄 app.py                    # Main Streamlit app
-│   ├── 📄 components.py             # UI Components
-│   └── 📄 utils.py                  # Utility functions
-│
-├── 📂 models/                       # Trained Models
-│   ├── 📄 best_model_deployment.pkl # Production model
-│   ├── 📄 preprocessing_pipeline.pkl# Feature pipeline
-│   └── 📄 model_comparison.csv      # Performance metrics
-│
-├── 📂 src/                          # Core ML Pipeline
-│   ├── 📄 train.py                  # Model training script
-│   ├── 📄 predict.py                # Prediction functions
-│   ├── 📄 features.py               # Feature engineering
-│   └── 📄 api.py                    # FastAPI endpoints
-│
-├── 📂 notebooks/                    # Jupyter Notebooks
-│   ├── 📄 01_eda.ipynb              # Exploratory Data Analysis
-│   ├── 📄 02_model_training.ipynb   # Model Development
-│   └── 📄 03_evaluation.ipynb       # Model Evaluation
-│
-├── 📂 data/                         # Dataset
-│   └── 📄 loan_dataset.csv          # Training data
-│
-├── 📄 requirements.txt              # Dependencies
-├── 📄 Dockerfile                    # Container configuration
-├── 📄 docker-compose.yml            # Multi-container setup
-└── 📄 README.md                     # This file
-```
 
 ## 🚀 Quick Start Guide
 
